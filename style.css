@@ -1,3 +1,4 @@
+
 body,html {
 height: 100%;
 font-family: Roboto, sans-serif;
@@ -90,6 +91,9 @@ font-family: Roboto, sans-serif;
   transform: translate(5px);
   color: white;
 }
+#save-btn:hover {
+  background: rgba(25, 236, 106, 0.829);
+}
 
 p {
   background-color: rgb(131, 7, 100);
@@ -111,4 +115,28 @@ p:hover {
   background-color: #04AA6D;
 }
 
+@media only screen and (max-width: 768px) {
+  .bg-image {
+    background-image: url(./images/download.jpeg);
+  }
+  .bg-text {
+    background-color: #699987;
+  }
 
+  #increment-btn {
+    left: 27%;
+    background-color: aqua;
+    color: black;
+} 
+
+#save-btn {
+  left: 27%;
+  background-color: darkgreen;
+  color: black;
+} 
+p {
+  background-color: rgb(190, 122, 19);
+  color: black;
+}
+
+}
