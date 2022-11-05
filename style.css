@@ -1,5 +1,6 @@
 body,html {
 height: 100%;
+font-family: Roboto, sans-serif;
 }
 
 * {
@@ -22,32 +23,92 @@ height: 100%;
   font-weight: bold;
   border: 3px solid #f1f1f1;
   position: absolute;
-  top: 50%;
+  top: 39%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 2;
   width: 80%;
   padding: 20px;
   text-align: center;
+  border-radius: 10px;
 }
 
-button{
+.bg-text:hover {
+  background-color: rgb(17, 107, 167);
+}
+
+#increment-btn {
   background: orange;
   padding-left: 10px;
   padding-top: 7px;
   padding-bottom: 7px;
   color: white;
+  outline: none;
   margin-bottom: 10px;
   width: 200px;
   position: absolute;
   left: 44%;
-  top: 68%;
+  top: 55%;
   border:none;
   font-size: 20px;
   border-radius: 5px;
+  box-shadow: 5px 6px 7px;
+  cursor: pointer;
 }
 
+#increment-btn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translate(5px);
+}
 
+#increment-btn:hover {
+  background-color: #04AA6D;
+}
 
+#save-btn {
+  background: greenyellow;
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: blue;
+  outline: none;
+  margin-bottom:45px;
+  width: 200px;
+  position: absolute;
+  left: 44%;
+  top: 67%;
+  border:none;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#save-btn:active {
+  background: green;
+  box-shadow: 5px 6px 7px;
+  transform: translate(5px);
+  color: white;
+}
+
+p {
+  background-color: rgb(131, 7, 100);
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 89%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+p:hover {
+  background-color: #04AA6D;
+}
 
 
