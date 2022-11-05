@@ -1,0 +1,53 @@
+body,html {
+height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+ background-image: url(./images/passenger.png);
+ filter: blur(8px);
+ -webkit-filter: blur(8px);
+ height: 100%;
+ background-position: center;
+ background-repeat:no-repeat;
+ background-size: cover;
+}
+
+.bg-text {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+button{
+  background: orange;
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: white;
+  margin-bottom: 10px;
+  width: 200px;
+  position: absolute;
+  left: 44%;
+  top: 68%;
+  border:none;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+
+
+
+
