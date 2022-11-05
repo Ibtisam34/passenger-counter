@@ -18,7 +18,7 @@ Clone the repo named "passenger-counter"
 
 - GitHub: [ibtisam34](https://github.com/ibtisam34)
 
-- facebook: [LinkedIn](facebook.com/in/zuhraladan)
+- facebook: [facebook](facebook.com/in/zuhraladan)
 
 ## 🤝 Contributing
 
