@@ -1,17 +1,49 @@
-# passenger-counter
+ ## live demo (if available)
+ 
+[live demo]()
+# Passenger-counter
 
-this project is all about HTML CSS and JAVASCRIPT 
+Its a  my first practice PROJECT as per the requirements of the project. It is designed using HTML and CSS  & JAVASCRIPT.
 
-its practice that I built passenger-counter
+## Built With
 
-To get a local copy up and running follow these simple example steps. Clone the repo named "passenger-counter"
+html, css & javascript
 
-Authors
+To get a local copy up and running follow these simple example steps.
+Clone the repo named "passenger-counter"
+
+## Authors
+
 👤 Riyana
 
-GitHub: ibtisam34
+- GitHub: [ibtisam34](https://github.com/ibtisam34)
 
-facebook: zuhraladan
+- facebook: [LinkedIn](facebook.com/in/zuhraladan)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+ 
+
+  ## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 
 
