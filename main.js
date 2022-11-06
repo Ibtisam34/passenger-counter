@@ -12,6 +12,10 @@ function save() {
  saveEl.textContent += countStr
 }
 
+function decrement() {
+  count = count-1
+  counEl.innerText= count
+}
 const menu = document.querySelector(".menu");
 const menuItems = document.querySelectorAll(".menuItem");
 const hamburger= document.querySelector(".hamburger");

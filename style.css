@@ -84,7 +84,23 @@ font-family: Roboto, sans-serif;
   border-radius: 5px;
   cursor: pointer;
 }
-
+ #decrement-btn {
+  background: rgb(110, 122, 91);
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: rgb(161, 161, 168);
+  outline: none;
+  margin-bottom:45px;
+  width: 200px;
+  position: absolute;
+  top: 78%;
+  left: 44%;
+  border:none;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
 #save-btn:active {
   background: green;
   box-shadow: 5px 6px 7px;
@@ -158,6 +174,13 @@ h3 {
   background-color: darkgreen;
   color: black;
 } 
+
+#decrement-btn {
+  background: rgb(11, 111, 151); 
+  color: white;
+  top: 78%;
+  left: 27%;
+}
 p {
   background-color: rgb(190, 122, 19);
   color: black;
