@@ -1,6 +1,6 @@
  ## live demo (if available)
  
-[live demo]()
+[live demo](https://ibtisam34.github.io/passenger-counter/)
 # Passenger-counter
 
 Its a  my first practice PROJECT as per the requirements of the project. It is designed using HTML and CSS  & JAVASCRIPT.
